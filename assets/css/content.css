@@ -1,0 +1,117 @@
+.inpage-select{border:3px solid #fff; margin:0px; background: transparent; color:#fff; padding:10px; line-height: 26px;}
+.inpage-select>option{background:#ccc; color:#fff;}
+.submenu-head{background: transparent;
+    border: 3px solid #fff;
+    color: #fefefe;
+    float: left;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: 'Mallanna',sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    height: 40px;
+    padding: 5px 35px 5px 20px;
+    margin: 0;
+    text-align: left;
+    width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;}
+
+    .submenu-headleft{background: transparent;
+    border: 3px solid #fff;
+    color: #fefefe;
+    float: left;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: 'Mallanna',sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    height: 40px;
+    padding: 5px 35px 5px 20px;
+    margin: 0;
+    text-align: left;
+    width: 400px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;}
+
+    .option {
+    background-color: #7c7c7c;
+    clear: both;
+    float: left;
+    font-size: 15px;
+    padding: 0px;
+    text-align: left;
+    width: 400px;
+    list-style: none;
+    display: none;
+     
+     }
+
+     .option li {
+    float: left;
+    padding:1px;
+    width: 100%;
+    border-left: 2px solid #999;
+    border-right: 2px solid #999;
+    cursor: pointer;
+    color: #fff;
+ }
+.option>li:hover {
+     
+     background: #ccc
+ }
+
+.option>li>a{font-size:13px; text-decoration: none}
+.option>li>a:hover{font-size:13px; text-decoration: none; color:#fff;}
+
+ .optionleft {
+    background-color: #7c7c7c;
+    clear: both;
+    float: left;
+    font-size: 15px;
+    padding: 0px;
+    text-align: left;
+    width: 400px;
+    list-style: none;
+    display: none;
+     }
+
+     .optionleft li {
+    float: left;
+    padding:1px;
+    width: 100%;
+    border-left: 2px solid #999;
+    border-right: 2px solid #999;
+    cursor: pointer;
+    color: #fff
+}
+.optionleft>li:hover {
+     
+     background: #ccc
+ }
+
+.optionleft>li>a{font-size:13px; text-decoration: none}
+.optionleft>li>a:hover{font-size:13px; text-decoration: none; color:#fff;}
+
+.client-head {
+    background-color: #fff;
+    float: left;
+    width: 100%;
+    margin: 10px 0 0;
+}
+
+.ser-head {
+    color: #404040;
+    float: left;
+    font-size: 28px;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    margin: 17px 0;
+    width: 100%;
+    letter-spacing: 0;
+    }
+
+   
+
